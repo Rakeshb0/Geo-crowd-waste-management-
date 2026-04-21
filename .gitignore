@@ -21,4 +21,6 @@ yarn-error.log*
 
 # Uploads (Local development only)
 backend/uploads
-**/uploads
+
+# Vercel
+.vercel
